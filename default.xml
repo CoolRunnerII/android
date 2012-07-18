@@ -37,6 +37,7 @@
   <project path="device/htc/click" name="CyanogenMod/android_device_htc_click" />
   <project path="device/htc/desirec" name="CyanogenMod/android_device_htc_desirec" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" />
+  <project path="device/htc/kovsky" name="CoolRunnerII/device_kovsky" revision="master" />
   <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" />
   <project path="device/htc/inc" name="CyanogenMod/android_device_htc_inc" />
   <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" />
@@ -203,6 +204,7 @@
   <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" revision="master" />
+  <project path="external/libnl-headers" name="CyanogenMod/android_external_libnl-headers" revision="jellybean" />
   <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
   <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
