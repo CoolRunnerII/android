@@ -15,7 +15,7 @@
   <default revision="gb-release-7.2"
            remote="github" />
 
-  <project path="build" name="CyanogenMod/android_build">
+  <project path="build" name="CoolRunnerII/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" />
