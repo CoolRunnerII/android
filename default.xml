@@ -42,7 +42,7 @@
   <project path="device/htc/desirec" name="CyanogenMod/android_device_htc_desirec" />
   <project path="device/htc/dream_sapphire" name="CyanogenMod/android_device_htc_dream_sapphire" />
   <project path="device/htc/kovsky" name="CoolRunnerII/device_kovsky" revision="master" />
-  <project path="device/htc/kovsky/libs/hardware_xdandroid_gps" name="~ast/xdandroid/asts-hardware_xdandroid_gps.git" remote="xdandroid" revision="gingerbread" />
+  <project path="device/htc/kovsky/libs/hardware_xdandroid_gps" name="CoolRunnerII/kovsky_hardware_xdandroid_gps" revision="gingerbread" />
   <project path="device/htc/espresso" name="CyanogenMod/android_device_htc_espresso" />
   <project path="device/htc/inc" name="CyanogenMod/android_device_htc_inc" />
   <project path="device/htc/glacier" name="CyanogenMod/android_device_htc_glacier" />
