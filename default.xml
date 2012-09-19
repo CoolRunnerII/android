@@ -4,6 +4,11 @@
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
 
+  <remote name="aosp"
+           fetch="https://android.googlesource.com/" />
+
+
+
   <remote  name="github"
            fetch=".."
            review="review.cyanogenmod.com" />
@@ -299,6 +304,8 @@
   <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" />
   <project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
   <project path="sdk" name="CyanogenMod/android_sdk" revision="tools_r7" />
+  <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
+  
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project path="system/core" name="CyanogenMod/android_system_core" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
